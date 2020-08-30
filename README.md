@@ -13,6 +13,10 @@ by integrate into Real-time Streaming from one place to other using WIFI network
 - ZED camera
 - pyzed.sl
 
+### Train Hardware
+GPU : GTX 2080 Super
+CPU : i7-9700F
+
 ### Dataset
 We retrive dataset of 2k 10000 from real world along with DIV2K dataset.
 
@@ -20,8 +24,4 @@ We retrive dataset of 2k 10000 from real world along with DIV2K dataset.
 python realtime_test.py
 
 ### Training Models
-Our setting is base on:
-GPU : GTX 2080 Super
-CPU : i7-9700F
-
 python train.py

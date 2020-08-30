@@ -1,8 +1,6 @@
 # Real-time Lightweight CARN Super-Resolution with Edge Prior
 
-<img src="Results/Bicubic/115500.png">
-<img src="Results/Results/115500.png">
-<img src="Results/Target/115500.png">
+<img src="Results/result.png">
 
 ### About this work
 This is an implementation of Super-Resolution model call "CARN" and Edge prior. We design this model for a real world task

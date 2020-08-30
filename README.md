@@ -10,6 +10,8 @@ by integrate into Real-time Streaming from one place to other using WIFI network
 - PyTorch
 - Numpy, Scipy
 - Pillow, Scikit-image
+- ZED camera
+- pyzed.sl
 
 ### Dataset
 We retrive dataset of 2k 10000 from real world along with DIV2K dataset.

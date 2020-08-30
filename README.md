@@ -8,6 +8,7 @@ by integrate into Real-time Streaming from one place to other using WIFI network
 ### Requirements
 - Python 3
 - PyTorch
+- openCV2
 - Numpy, Scipy
 - Pillow, Scikit-image
 - ZED camera
